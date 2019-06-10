@@ -17,6 +17,14 @@ const example = {
   "gender": "F"
 }
 
+const internOne = {
+  "id": 1,
+  "name": "Mitzi",
+  "email": "mmelloy0@psu.edu",
+  "gender": "F"
+}
+console.log(internOne)
+
 // Write your intern objects here:
 
 
